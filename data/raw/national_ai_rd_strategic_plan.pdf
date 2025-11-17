@@ -1,0 +1,2101 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="stylesheet" href="/uswds/css/us-banner.css" />
+<link rel="stylesheet" href="/uswds/css/uswds.css" />
+<script src="/uswds/js/uswds.js"></script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v26.3 (Yoast SEO v26.3) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>The Networking and Information Technology Research and Development (NITRD) Program - The Networking and Information Technology Research and Development (NITRD) Program</title>
+	<link rel="canonical" href="https://www.nitrd.gov/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="The Networking and Information Technology Research and Development (NITRD) Program" />
+	<meta property="og:url" content="https://www.nitrd.gov/" />
+	<meta property="og:site_name" content="The Networking and Information Technology Research and Development (NITRD) Program" />
+	<meta property="article:modified_time" content="2022-10-11T13:24:49+00:00" />
+	<meta property="og:image" content="https://www.nitrd.gov/wp-content/uploads/2020/10/cropped-NITRD-logo.png" />
+	<meta property="og:image:width" content="1244" />
+	<meta property="og:image:height" content="635" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@NITRDgov" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.nitrd.gov/","url":"https://www.nitrd.gov/","name":"The Networking and Information Technology Research and Development (NITRD) Program - The Networking and Information Technology Research and Development (NITRD) Program","isPartOf":{"@id":"https://www.nitrd.gov/#website"},"about":{"@id":"https://www.nitrd.gov/#organization"},"datePublished":"2020-10-20T13:38:45+00:00","dateModified":"2022-10-11T13:24:49+00:00","breadcrumb":{"@id":"https://www.nitrd.gov/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.nitrd.gov/"]}]},{"@type":"BreadcrumbList","@id":"https://www.nitrd.gov/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.nitrd.gov/#website","url":"https://www.nitrd.gov/","name":"The Networking and Information Technology Research and Development (NITRD) Program","description":"","publisher":{"@id":"https://www.nitrd.gov/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.nitrd.gov/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.nitrd.gov/#organization","name":"The Networking and Information Technology Research and Development (NITRD) Program","url":"https://www.nitrd.gov/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.nitrd.gov/#/schema/logo/image/","url":"https://www.nitrd.gov/wp-content/uploads/2020/10/NITRD-logo-e1603543241562.png","contentUrl":"https://www.nitrd.gov/wp-content/uploads/2020/10/NITRD-logo-e1603543241562.png","width":157,"height":80,"caption":"The Networking and Information Technology Research and Development (NITRD) Program"},"image":{"@id":"https://www.nitrd.gov/#/schema/logo/image/"},"sameAs":["https://x.com/NITRDgov","https://www.linkedin.com/company/nitrdgov/","https://www.youtube.com/@NITRDgov"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+		<script>
+			var head = document.getElementsByTagName('head')[0];
+			// Save the original method
+			var insertBefore = head.insertBefore;
+			// Replace it!
+			head.insertBefore = function(newElement, referenceElement) {
+				if (newElement.href && newElement.href.indexOf('https://fonts.googleapis.com/css?family=') === 0) {
+					return;
+				}
+				if (newElement.href && newElement.href.indexOf('https://fonts.gstatic.com/') === 0) {
+					return;
+				}
+				insertBefore.call(head, newElement, referenceElement);
+			};
+		</script>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.nitrd.gov/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='exit_notifier-frontend-css' href='https://www.nitrd.gov/wp-content/plugins/exit-notifier/assets/css/frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='exit_notifier-jAlert-css' href='https://www.nitrd.gov/wp-content/plugins/exit-notifier/assets/css/jAlert.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flexy-breadcrumb-css' href='https://www.nitrd.gov/wp-content/plugins/flexy-breadcrumb/public/css/flexy-breadcrumb-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flexy-breadcrumb-font-awesome-css' href='https://www.nitrd.gov/wp-content/plugins/flexy-breadcrumb/public/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-animate-css' href='https://www.nitrd.gov/wp-content/themes/onepress/assets/css/animate.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-fa-css' href='https://www.nitrd.gov/wp-content/themes/onepress/assets/fontawesome-v6/css/all.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-fa-shims-css' href='https://www.nitrd.gov/wp-content/themes/onepress/assets/fontawesome-v6/css/v4-shims.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-bootstrap-css' href='https://www.nitrd.gov/wp-content/themes/onepress/assets/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-style-css' href='https://www.nitrd.gov/wp-content/themes/onepress/style.css' type='text/css' media='all' />
+<style id='onepress-style-inline-css' type='text/css'>
+.site-logo-div img{height:80px;width:auto}#main .video-section section.hero-slideshow-wrapper{background:transparent}.hero-slideshow-wrapper:after{position:absolute;top:0px;left:0px;width:100%;height:100%;background-color:rgba(0,0,0,0.3);display:block;content:""}#parallax-hero .jarallax-container .parallax-bg:before{background-color:rgba(0,0,0,0.3)}.body-desktop .parallax-hero .hero-slideshow-wrapper:after{display:none!important}#parallax-hero>.parallax-bg::before{background-color:rgba(0,0,0,0.3);opacity:1}.body-desktop .parallax-hero .hero-slideshow-wrapper:after{display:none!important}a,.screen-reader-text:hover,.screen-reader-text:active,.screen-reader-text:focus,.header-social a,.onepress-menu a:hover,.onepress-menu ul li a:hover,.onepress-menu li.onepress-current-item>a,.onepress-menu ul li.current-menu-item>a,.onepress-menu>li a.menu-actived,.onepress-menu.onepress-menu-mobile li.onepress-current-item>a,.site-footer a,.site-footer .footer-social a:hover,.site-footer .btt a:hover,.highlight,#comments .comment .comment-wrapper .comment-meta .comment-time:hover,#comments .comment .comment-wrapper .comment-meta .comment-reply-link:hover,#comments .comment .comment-wrapper .comment-meta .comment-edit-link:hover,.btn-theme-primary-outline,.sidebar .widget a:hover,.section-services .service-item .service-image i,.counter_item .counter__number,.team-member .member-thumb .member-profile a:hover,.icon-background-default{color:#0645bf}input[type="reset"],input[type="submit"],input[type="submit"],input[type="reset"]:hover,input[type="submit"]:hover,input[type="submit"]:hover .nav-links a:hover,.btn-theme-primary,.btn-theme-primary-outline:hover,.section-testimonials .card-theme-primary,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce button.button.alt,.pirate-forms-submit-button,.pirate-forms-submit-button:hover,input[type="reset"],input[type="submit"],input[type="submit"],.pirate-forms-submit-button,.contact-form div.wpforms-container-full .wpforms-form .wpforms-submit,.contact-form div.wpforms-container-full .wpforms-form .wpforms-submit:hover,.nav-links a:hover,.nav-links a.current,.nav-links .page-numbers:hover,.nav-links .page-numbers.current{background:#0645bf}.btn-theme-primary-outline,.btn-theme-primary-outline:hover,.pricing__item:hover,.section-testimonials .card-theme-primary,.entry-content blockquote{border-color:#0645bf}#footer-widgets{}.gallery-carousel .g-item{padding:0px 10px}.gallery-carousel-wrap{margin-left:-10px;margin-right:-10px}.gallery-grid .g-item,.gallery-masonry .g-item .inner{padding:10px}.gallery-grid-wrap,.gallery-masonry-wrap{margin-left:-10px;margin-right:-10px}.gallery-justified-wrap{margin-left:-20px;margin-right:-20px}#slider .section-op-slider .item--content .item--title{color:rgba(217,83,79,1)}#slider .section-op-slider .item--content .item--desc p{color:rgba(9,37,67,1)}
+</style>
+<link rel='stylesheet' id='onepress-gallery-lightgallery-css' href='https://www.nitrd.gov/wp-content/themes/onepress/assets/css/lightgallery.css' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-child-style-css' href='https://www.nitrd.gov/wp-content/themes/onepress-child-master/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='onepress-plus-style-css' href='https://www.nitrd.gov/wp-content/plugins/onepress-plus/onepress-plus.css' type='text/css' media='all' />
+<link rel='stylesheet' id='srpw-style-css' href='https://www.nitrd.gov/wp-content/plugins/smart-recent-posts-widget/assets/css/srpw-frontend.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.nitrd.gov/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" id="exit_notifier-frontend-js-extra">
+/* <![CDATA[ */
+var ExitBoxSettings = {"exitbox_version":"1.9.1","siteroot":"www.nitrd.gov","siteurl":"https:\/\/www.nitrd.gov","title":"Thank you for visiting our website","body":"<p style=\"text-align: left;\">The link you have selected ({target}) is located on another server.  We have provided a link to this site because it may have information that is\r\nof interest to our users, The NITRD NCO is not responsible for material\r\ncontained at this site.<\/p> <p>Please click \u201cGo to URL\u2026\u201d to leave this website and proceed to the selected site.<\/p>","GoButtonText":"Go to URL...","Include_URL":"on","CancelButtonText":"Cancel","alt_title":"Thank you for visiting our website","alt_body":"<p>The link you have selected is located on another server.  The linked site contains information that has been created, published, maintained, or otherwise posted by institutions or organizations independent of this organization.  We do not endorse, approve, certify, or control any linked websites, their sponsors, or any of their policies, activities, products, or services.  We do not assume responsibility for the accuracy, completeness, or timeliness of the information contained therein.  Visitors to any linked websites should not use or rely on the information contained therein until they have consulted with an independent financial professional.<\/p> <p>Please click \u201cGo to URL\u2026\u201d to leave this website and proceed to the selected site.<\/p>","alt_GoButtonText":"Go to URL...","alt_Include_URL":"on","alt_CancelButtonText":"Cancel","alt_classname":"altExitNotifier","activate_custom_content":"on","apply_to_all_offsite_links":"","jquery_selector_field":"a[href*=\"\/\/\"]:not([href*=\"https:\/\/www.nitrd.gov\/\"]):not([href*=\"nitrd.gov\"]):not([href*=\"https:\/\/forms.office.com\/g\/KbQRyUdgh3\"])","new_window":"","css_exclusion_class":"noExitNotifier","relnofollow":"","enable_notifier_for_forms":"","apply_to_all_offsite_forms":"on","jquery_form_selector_field":"form[action*=\"\/\/\"]:not([action*=\"www.nitrd.gov\"])","sa2_or_jAlert":"jAlert","theme":"default","backgroundcolor":"black","blurbackground":"","size":"md","showAnimation":"fadeIn","hideAnimation":"fadeOut","visual":"","enable_timeout":"","timeout_text_continue":"Continue in {seconds} seconds.","timeout_text_cancel":"Cancel in {seconds} seconds.","continue_or_cancel":"continue","timeout_seconds":"10","enable_progressbar":"","timeout_statement":"on","custom_css":"\nbackground: #0684ce;\nbackground: -moz-linear-gradient(top,  #0684ce 0%, #1e5799 100%);\nbackground: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#0684ce), color-stop(100%,#1e5799));\nbackground: -webkit-linear-gradient(top,  #0684ce 0%,#1e5799 100%);\nbackground: -o-linear-gradient(top,  #0684ce 0%,#1e5799 100%);\nbackground: -ms-linear-gradient(top,  #0684ce 0%,#1e5799 100%);\nbackground: linear-gradient(to bottom,  #0684ce 0%,#1e5799 100%);\nfilter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0684ce', endColorstr='#1e5799',GradientType=0 );\nborder: 3px solid #1e5799;\n\t\t\t","advanced_custom_css":"","addclasses":"","classestoadd":"","debugtoconsole":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nitrd.gov/wp-content/plugins/exit-notifier/assets/js/frontend.js" id="exit_notifier-frontend-js"></script>
+<script type="text/javascript" src="https://www.nitrd.gov/wp-content/plugins/exit-notifier/assets/js/jAlert.min.js" id="exit_notifier-jAlert.min-js"></script>
+<script type="text/javascript" src="https://www.nitrd.gov/wp-content/plugins/exit-notifier/assets/js/sweetalert2.all.min.js" id="exit_notifier-sa2.min-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.nitrd.gov/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.nitrd.gov/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.nitrd.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nitrd.gov%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.nitrd.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nitrd.gov%2F&#038;format=xml" />
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script src="https://www.nitrd.gov/js/lozad.min.js"></script>
+<script>
+const observer = lozad();
+observer.observe();
+</script>
+<link rel="icon" href="https://www.nitrd.gov/wp-content/uploads/2021/02/cropped-NITRD-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.nitrd.gov/wp-content/uploads/2021/02/cropped-NITRD-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.nitrd.gov/wp-content/uploads/2021/02/cropped-NITRD-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.nitrd.gov/wp-content/uploads/2021/02/cropped-NITRD-icon-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.section-sid1651238548043 {
+	padding-top:0px;
+}
+@media only screen and (max-width: 1000px) {
+
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    left: 30px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: #990000;
+    color: white;
+    cursor: pointer;
+    padding-top: 7px !important;
+	  padding-bottom: 7px !important;
+	  padding-left:7px !important;
+	  padding-right:7px !important;
+    border-radius: 7px !important;
+	  font-weight: 100 !important;
+}
+	
+.fp-content-hide, .lwptoc {
+    float: left !important;
+    width: 100% !important;
+}
+.cards {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr) !important;
+    grid-auto-rows: auto;
+    grid-gap: 1rem;
+}
+.card {
+width: 100% !important;
+}	
+}
+.breadcrumbs {
+	display: none;
+}
+
+.fa-home {
+	color: #337AB7;
+}
+.breadcrumb a {
+	color: #337AB7;
+}
+
+a:focus,
+.focus a {
+	outline: none !important;
+}
+.bcs-searchbox {
+	outline: none !important;
+}
+p {
+text-align:justify;
+}
+.front-page-container {
+  width: 100%;
+}
+
+.front-page-one {
+  width: 40%;
+  background: whitesmoke;
+  float: left;
+	padding-left:5px;
+	padding-right:10px;
+	padding-top:10px;
+	vertical-align: top;
+  text-align: left;
+}
+
+.front-page-one::first-letter {
+    font-size: 6em;
+	  font-weight:bold;
+    float: left;
+    margin-top: -35px;
+	  margin-right:10px;
+}
+.front-page-two {
+	padding-left:20px;
+  width: 60%;
+	float: right;
+	vertical-align: text-top;
+	padding-bottom:50px;
+}
+.first-letter-front-page-one {
+	font-size: 6em;
+	font-weight:bold;
+  line-height: 70px;
+	float: left;
+	width:20%;
+}
+.welcome-front-page-one {
+	width:80%;
+	float: right;
+	vertical-align: text-top;
+	padding-bottom:5px;
+}
+
+.front-page-section-title {
+	text-align: center; 
+  font-size: 2em; 
+	color: #336699;
+	text-transform:uppercase;
+	margin-top:100px;
+	margin-bottom:50px;
+}
+.quantum-in-news {
+	width:100%;
+}
+.news-item {
+    width:100%;
+    height:auto;
+    padding:1%;
+	  background: whitesmoke;
+	  margin-bottom:10px; 
+	  display:flex;
+}
+
+.fixed{
+    width: 80%;
+}
+.flex-item{
+    flex-grow: 1;
+	  display: block;
+	  vertical-align: middle;
+	  position: relative;
+	  padding:10px;
+}
+.news-item-title {
+	padding-left:5%;
+	font-size:1.4em;
+  color: #323a45;
+	text-align: left;
+}
+.news-item-description {
+	width:80%;
+	padding-left:5%;
+}
+.news-item-link {
+}
+
+.actions-column {
+  float: left;
+  width: 33%;
+  margin-bottom: 50px;
+	vertical-align: middle;
+	display: block;
+	text-align: center;
+	position: relative;
+}
+.actions-column img {
+	width: 100%;
+	padding:5px;
+}
+img:hover {
+  opacity: 0.5;
+}
+.actions-column-description {
+  position: absolute;
+	font-size:1.3em;
+	text-transform: uppercase;
+	font-weight:bold;
+	color:white;
+	background-color: hsla(160, 0%, 10%, 0.4);
+  top: 50%;
+	width:80%;
+  left: 50%;
+	vertical-align: middle;
+	text-align: center;
+  transform: translate(-50%, -50%);
+	padding:10px;
+	border-radius: 10px;
+}
+.actions-column-description {
+background-image : linear-gradient(to bottom, rgba(255,255,255, 0), 
+rgba(255,255,255, 1) 200%);
+}
+
+@media only screen and (max-width: 800px) {
+.actions-column-description { font-size:1em; }
+}
+
+@media only screen and (max-width: 700px) {
+.actions-column-description { font-size:0.7em; }
+}
+
+/* Clearfix (clear floats) */
+.actions-row::after {
+  content: "";
+  clear: both;
+  display: block;
+	vertical-align: center;
+}
+.actions-row {
+		margin-bottom:50px;
+}
+
+.agency-column {
+  float: left;
+  width: 250px;
+  height: 200px;
+  padding: 5px;
+	vertical-align: middle;
+	display: block;
+	text-align: center;
+	position: relative;
+}
+.agency-logo{
+	  clear:both;
+    vertical-align: middle;
+	  position: absolute;  
+        top: 0;  
+        bottom: 0;  
+        left: 0;  
+        right: 0;  
+        margin: auto;
+	      width:180px;
+}
+/* Clearfix (clear floats) */
+.agency-row::after {
+  content: "";
+  clear: both;
+  display: block;
+	vertical-align: center;
+}
+
+.agency-row {
+		margin-bottom:50px;
+}
+
+.footer-collumn-container {
+	display: block;
+}
+.footer-collumn1 .footer-collumn2 .footer-collumn3 {
+	height: 320px;
+  width: 240px;
+	float: left;
+}
+
+.
+
+#post-572 select, option {
+	height:25px;
+	padding:0px;
+	margin:0px;
+  font-size: 90%;
+}
+
+/* Grid style */
+.display-posts-listing.grid {
+	display: grid;
+	grid-gap: 16px;
+}
+
+.display-posts-listing.grid .title {
+	display: block;
+}
+
+.display-posts-listing.grid img { 
+	display: block; 
+	max-width: 100%; 
+	height: auto; 
+}
+
+@media (min-width: 600px) {
+	.display-posts-listing.grid {
+		grid-template-columns: repeat( 2, 1fr );
+	}
+}
+
+@media (min-width: 1024px) {
+	.display-posts-listing.grid {
+		grid-template-columns: repeat( 3, 1fr );
+	}
+}
+
+.portrait-container {
+    box-sizing: border-box;
+    padding-left: 12px;
+    overflow: hidden;
+    text-align: center;
+    width: 100%;
+	  padding-bottom:150px;
+}
+
+.team-card {
+	  clear:both;
+    display: inline-block;
+    vertical-align:top;
+    margin-top: 15px;
+    margin-bottom: 100px;
+    margin-left: 0px ;
+    margin-right: 15px;
+    min-height: 267px;
+    max-height: 267px;
+    position: relative;
+}
+
+.team-card-photo {
+	width:200px;
+}
+
+.team-card-photo img {
+	margin-bottom:15px;
+}
+
+.team-card-name {
+font-size:1.4em;
+font-weight:bold;
+line-height:1em;
+margin-bottom:4px;
+padding-bottom:4px;
+margin-top:10px;
+padding-top:5px;
+text-align:center;
+}
+
+.team-card-name a { color: #1c5a7c; }
+
+.team-card-title {
+margin-top:10px;
+font-size:1.3em;
+}
+
+.footer-collumn1 ul li a {
+    color: #FFF !important;
+	  font-weight:bold;
+    font-size: 14px !important;
+}
+
+.footer-collumn2 ul li a {
+    color: #FFF !important;
+	  font-weight:bold;
+    font-size: 14px !important;
+}
+
+.footer-collumn3 ul li a {
+    color: #FFF !important;
+	  font-weight:bold;
+    font-size: 14px !important;
+}
+
+
+.footer-collumn4 ul li a {
+    color: #FFF !important;
+	  font-weight:bold;
+    font-size: 14px !important;
+}
+
+.byline {
+display:none;
+}
+
+.other-news-blocks {
+	width:100%;
+}
+.other-news-block {
+width: 28%;
+display: block;
+float:left;
+padding:10px;
+}
+.other-news-image img {
+	height: 200px; 
+}
+.other-news-title {
+font-size:1.2em;
+}
+.other-news-description {
+}
+.section-title-area .section-title {
+font-size:2em !important;
+color:gray;
+}
+
+.welcome-homepage-block {}
+
+.welcome-homepage-block-left {
+	width:40%;
+	text-align:justify;
+	float:left;
+}
+
+.welcome-homepage-block-right {
+	display:block;
+	width:57%;
+	text-align:left;
+	float:left;
+	margin-left:3%;
+	margin-top:0em;
+	background-color: #f7f7f7;
+	box-sizing: border-box;
+  padding: 20px;
+	border-radius: 5px 25px 25px 5px; 
+}
+
+.welcome-homepage-block-right-title {
+	font-weight:bold;
+	font-size:1.5em;
+}
+.welcome-homepage-block-left-text-first-letter {
+	font-size: 5em;
+	font-weight:bold;
+	padding:0px;
+	margin:0px;
+	line-height:1em;
+}
+
+.welcome-homepage-block-right-more a {
+	color:gray;
+	font-style:italic;
+	margin-left:0px;
+}
+
+.btn-theme-primary-outline:hover {
+  background-color: #092445;
+}
+.btn-theme-primary-outline {
+border-color: #0235ef;
+}
+.agency-activities-blocks {
+	width:100%;
+}
+.agency-activities-block {
+width: 33%;
+display: block;
+float:left;
+padding:10px;
+height:400px;
+}
+.agency-activities-image {
+	height: 200px; 
+	min-height:200px;
+}
+.agency-activities-title {
+	font-size:1.2em;
+}
+.agency-activities-description {
+}
+
+@media only screen and (max-width: 800px) {
+.owl-item {
+width: 120px;
+}
+}
+
+.agency-logos-section {
+width:100%;
+text-align:center;
+}
+
+.agency-logo-div {
+position:relative; 
+display:inline-block; 
+width: 18%;
+margin-bottom:5px;
+}
+.agency-logos {
+padding-left:20px;
+display: inline-block;
+}
+
+#footer-widgets{
+display:none;
+}
+
+.subfooter a {
+color: #FFF !important; font-weight: bold; font-size: 14px !important;
+}
+
+.display-posts-listing.image-left .listing-item {
+	overflow: hidden; 
+	margin-bottom: 32px;
+	width: 100%;
+}
+
+.display-posts-listing.image-left .image {
+	float: left;
+	margin: 0 16px 0 0;
+}
+
+.display-posts-listing.image-left .title {
+	display: block;
+	font-size:1.4em;
+}
+
+.display-posts-listing.image-left .category-display {
+	width:100%;
+	display: block;
+	font-size:1em;
+	font-style:italic;
+}
+
+.display-posts-listing.image-left .excerpt-dash { 
+	display: none; 
+}
+
+#wpcd_parent {
+width:200px;
+float:right;
+border: solid 2px #c9c9c9;
+transition: border 0.3s;
+	font-weight:bold;
+}
+
+.tnp-subscription label a {
+color:white;
+}
+
+.archive-news-posts-container {
+	margin-bottom:15px;
+}
+
+.archive-news-posts-left {
+     width:50%;
+	   display: inline;
+}  
+.archive-news-posts-right {
+    float: right;
+	  width:20%;
+	  display: inline;
+} 
+
+
+#cat {
+    //width: 200px;
+    border: solid 2px #c9c9c9;
+    transition: border 0.3s;
+    font-weight: bold;
+	  margin-bottom:0px;
+	  margin-top:-40px;
+	  padding: 7px;
+}
+
+.events-catalog {
+	border:0px;
+}
+
+.events-description {
+    width: 60%;
+    float: left;
+    padding-right: 20px;
+	  	border:0px;
+} 
+
+.events-image {
+    width: 40%;
+	  float:right;
+    padding-top: 50px;
+	  	border:0px;
+} 
+
+.tribe-events-c-view-selector__list {
+	width:150px;
+	margin-left: 0px;
+}
+
+.tribe-common ul>li {
+	margin-left: 0px;	
+}
+
+.tribe-events-event-categories-label {
+	margin-bottom:0px;
+}
+
+.tribe-events-meta-group dt {
+	margin-bottom:0px;
+	display: inline;
+}
+
+#tribe-events-content .tribe-events-abbr {
+	text-transform: capitalize;
+}
+
+.tribe-events .tribe-events-c-search__input-control--keyword .tribe-events-c-search__input {
+   background-repeat: no-repeat;
+}
+
+.tribe-events .tribe-events-c-search__input-control--keyword-focus .tribe-events-c-search__input, .tribe-events .tribe-events-c-search__input-control--keyword .tribe-events-c-search__input:focus {
+     background-repeat: no-repeat;
+}
+
+.tribe-common .tribe-common-c-btn, .tribe-common a.tribe-common-c-btn {
+    font-family: Helvetica Neue,Helvetica,-apple-system,BlinkMacSystemFont,Roboto,Arial,sans-serif;
+    font-size: 1em;
+    line-height: 1.62;
+    font-weight: 400;
+    font-weight: 700;
+    border: 0;
+    cursor: pointer;
+    display: inline-block;
+    height: auto;
+    padding: 0;
+    text-decoration: none;
+    width: auto;
+    border-radius: 4px;
+    color: #fff;
+    text-align: center;
+    transition: background-color .2s ease;
+    background-color: #ccc;
+    padding: 11px 20px;
+    width: 100%;
+    margin-left:10px;
+}
+
+#tribe-events-events-bar-keyword {
+  color: blueviolet;
+	font-size:1.2em;
+}
+
+.tribe-common--breakpoint-medium.tribe-events .tribe-events-l-container {
+	padding-top: 20px !important;
+}
+
+.tribe-common--breakpoint-medium.tribe-events--filter-bar-horizontal.tribe-events .tribe-events-header--has-event-search .tribe-events-c-events-bar__filter-button-text {
+	padding-top:5px;
+	font-weight:bold;
+}
+
+.section-title-area .section-title {
+    font-size: 2em !important;
+    color: #464D57 !important;
+}
+
+.section-op-slider-parallax {
+max-height:566px;
+}
+
+.item--title {
+	font-size:2em !important;
+}
+
+.project-wrapper {
+	border-width:0px;
+}
+
+.project-wrapper {
+text-align: center;
+justify-content: center;
+}
+
+.project-item {
+	margin-bottom:10px;
+	margin-right:10px;
+}
+
+.project-3-column .project-item {
+  width: 31% !important;
+}
+.project-header  {
+min-height:70px;	
+}
+.tnp-subscription label a {
+    color: black;
+	  font-weight:normal;
+}
+.section-desc {
+	font-size: 1.1rem;
+}
+
+.cards {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-auto-rows: auto;
+grid-gap: 1rem;
+}
+  
+.card {
+flex: 0 1 auto;
+}
+.card-inner {
+ border: 0;
+ background-color: transparent;  
+ padding:10px;
+ margin:10px;
+}
+.card-image {  
+	width:100%;
+}
+.card-title {
+	margin-top:10px;
+	text-transform: uppercase;
+}
+.card-content {
+	font-size:0.8em;
+}
+.tribe-events .tribe-events-c-view-selector__list-item-text {
+font-size:12px;
+}
+.onepress-menu ul li {
+    line-height: 18px;
+}
+
+.research-area-tiles {
+text-align: center;
+}
+
+.agency-logos:hover { 
+	transform: scale(1.1); 
+}
+
+.events-fp-event {
+border:0px;
+}
+.events-fp-event td {
+border:0px;
+}
+
+.events-fp-event td {
+border: 0px; 
+}
+
+.events-fp-date {
+    color: #1c5a7c;
+    font-size: 0.9em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom:15px;
+    font-style:normal !important;
+}
+
+.events-fp-title h2 {
+    color: #1c5a7c !important;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom:15px;
+    font-style:normal !important;
+}
+
+.events-fp-description {
+font-size: 0.9em;
+}
+
+.events-fp-organizer {
+font-style:italic;
+font-size: 0.8em;
+border-bottom: 1px solid #ccc; 
+}
+
+.footer-social {
+	margin-top: 4em;
+}
+
+.events-h3 {
+font-size: 1.2em; 
+font-weight: bold; 
+color: #1c5a7c; 
+border-bottom: 1px solid #aaa;
+}
+
+.entry-thumbnail {
+width: 100%;
+}
+.entry-thumbnail img {
+display:inline; width:60%;
+margin-left: 20%
+}
+
+.onepress-menu li.has-children > a:after {
+ color: #fff;
+ content: ' ▼';
+ font-size: 10px;
+ vertical-align: 1px;
+ float:right;
+}
+.onepress-menu li li.has-children > a:after {
+ color: #6f6c6c;
+ content: ' ►';
+ font-size: 10px;
+ vertical-align: 1px;
+ float:right;
+}
+
+.onepress-menu a {
+    color: #333333;
+    font-family: "Barlow",sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+    zoom: 1;
+    letter-spacing: 1px;
+}
+#menu-item-148 {
+	padding-right: 15px;
+}
+.onepress-menu ul li a:not([href]):not([tabindex]) {
+    color: #6f6c6c;
+}
+
+a.anchor{display: block; position: relative; top: -150px; visibility: hidden;}
+
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    left: 30px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: #990000;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
+.search-form {
+  display: block;
+  position: relative;
+}
+
+.box {
+  display: inline-block; 
+	text-align: left; 
+}
+
+.container-4{
+  margin: 0 auto;
+  padding: 0px;
+  position: relative;
+  overflow: hidden;
+  width: 280px;
+  vertical-align: middle;
+  white-space: nowrap;
+	background-color: #F4F4F4;
+	height: 50px;
+	display: inline-block; 
+	text-align: left; 
+}
+
+.container-4 input#search{
+  width: 280px;
+  height: 50px;
+  background: #FAFAFA;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  
+  padding-left: 15px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+	margin-left: auto;
+  margin-right: auto;
+}
+
+.container-4 input#search::-webkit-input-placeholder {
+   color: #65737e;
+}
+ 
+.container-4 input#search:-moz-placeholder { /* Firefox 18- */
+   color: #65737e;  
+}
+ 
+.container-4 input#search::-moz-placeholder {  /* Firefox 19+ */
+   color: #65737e;  
+}
+ 
+.container-4 input#search:-ms-input-placeholder {  
+   color: #65737e;  
+}
+
+.container-4 button.icon{
+    -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  -moz-border-radius-topright: 5px;
+  -moz-border-radius-bottomright: 5px;
+	-moz-border-radius-topleft: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: none;
+  background: #FAFAFA;
+	//background: none;
+  height: 40px;
+  width: 40px;
+  color: black;
+  opacity: 0;
+  font-size: 18pt;
+  -webkit-transition: all .55s ease;
+  -moz-transition: all .55s ease;
+  -ms-transition: all .55s ease;
+  -o-transition: all .55s ease;
+  transition: all .55s ease;
+  position: relative;
+	display: inline-grid; 
+	text-align: left; 
+	position: absolute;
+  top: 3px;
+  right: 3px;
+  
+}
+
+.fa {
+	padding-top:10px;
+}
+
+.fa-search:before {
+    content: "\f002";
+}
+
+.container-4:hover button.icon, .container-4:active button.icon, .container-4:focus button.icon{
+    outline: none;
+    opacity: 1;
+    margin-left: -45px;
+  }
+ 
+  .container-4:hover button.icon:hover{
+    background: #FAFAFA;
+		background: none;
+  }
+
+@media only screen and (max-width: 1000px) {
+
+.agency-logo-div {
+    width: 25% !important;
+}
+
+	.research-area-tile {
+width: 45% !important;
+}
+	
+.Twitter-Widget {
+width: 100% !important;		
+}	
+
+.timeline-Widget {
+width: 100% !important;
+
+}
+.Events-Widget {
+width: 100% !important;
+}	
+}
+
+.section-sid1603222370610, .section-sid1603379029970 {
+    background-color: rgba(41,51,64,1) !important;
+}
+
+.research-area-tiles {
+text-align:center;
+}
+
+.research-area-tile {
+  width: 23%;
+  margin-bottom: 50px;
+  margin-right: 10px;
+  vertical-align: top;
+  text-align: center;
+  position: relative;
+  display:inline-block;
+}
+
+.research-area-tile-image {
+overflow: hidden;
+}
+
+.research-area-tile-image img:hover {
+  opacity: 0.5;
+  transition: 0.5s all ease-in-out;
+  transform: scale(1.5);  
+}
+
+.research-area-tile-title {
+margin-top:10px;
+}
+
+.section-sid1615913104940 .container {
+width:100% !important;
+padding: 0px !important;
+}
+
+#sid1615913104940 {
+padding-top: 0px;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: #464D57;
+    text-decoration: none;
+}
+
+.front-page-slider-title {
+color: rgba(217,83,79,2);
+letter-spacing: 4px;
+line-height: 1.3;
+text-shadow: 0 0px 0px rgba(0, 0, 0, 0.15);
+font-weight: 800;
+text-transform: uppercase;
+font-size: 1.8em !important;
+padding-top:20px;
+font-style: normal !important;
+}
+
+.front-page-slider-desc {
+line-height: 1.2;
+font-size: 0.9em !important;
+padding-left:20px;
+padding-right:20px;
+padding-bottom:20px;
+}
+
+a {
+  color: #0235ef;
+  text-decoration: none;
+  outline: none;
+}
+
+.post-date {
+font-size:0.7em !important;
+}
+.sidebar .widget a {
+    font-size: 0.7em;
+}
+
+.display-posts-listing.image-left .title {
+    display: block;
+    font-size: 1.2em;
+}
+.category-display a {
+	font-size: 0.8em;
+}
+.date {
+	font-size: 0.8em;
+}
+@media screen and (min-width: 940px) {
+.right-sidebar .sidebar {
+    padding-left: 15px !important;
+    border-left: 1px solid #e9e9e9;
+    margin-left: -1px;
+}
+	
+}
+
+.fbc-page .fbc-wrap .fbc-items li{
+        padding: 5px 2px;
+        margin-left: 5px !important;
+}
+
+.project-small-title-description {
+font-size:0.8em;
+margin-left: 1em;
+margin-right: 1em;
+}
+
+.btn-theme-primary {
+  background: #03c4eb;
+  color: #FFFFFF;
+}
+.btn-theme-primary:hover {
+  color: #FFFFFF;
+}
+
+.btn-theme-primary-outline {
+	text-transform: uppercase;
+  border-radius: 2px !important;
+	background-color: #FFFFFF;
+  background-image: none;
+  border-color: #0235ef !important;
+	line-height: 1.25;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+	user-select: none;
+  padding: .5rem 1rem;
+	color: #8e6738; 
+}
+.btn-theme-primary-outline:hover {
+  color: #FFF;
+  background-color: #092445;
+  border-color: #03c4eb;
+}
+
+.entry-title {
+text-align:left;
+}
+
+.widget {
+    margin-bottom: 2em;
+    border-bottom: 1px solid #bbb;
+    background: #fff;
+}
+
+.widget-title {
+    text-shadow: #fff 0 1px 0;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+    font-size: 1.3em !important;
+    padding: 3px 0 20px;
+    margin-bottom: 5px;
+    text-align: center;
+    color: #999;
+}
+
+.widgettitle, .widgettitle a {
+    text-shadow: #fff 0 1px 0;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    font-size: 1em !important;
+	  font-weight: bold;
+    padding: 3px 0 20px;
+    margin-bottom: 5px;
+    text-align: center;
+    color: #999;
+}
+
+.news-category-banner {
+    background: url(/wp-content/uploads/2020/11/lsn.jpg) no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.nitrd_resource {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    line-height: 26px;
+    color: #444b56;
+    font-family: "Barlow",sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -.05px;
+    clear: both;
+    -webkit-transition: padding .1s cubic-bezier(.455,.03,.515,.955);
+    transition: padding .1s cubic-bezier(.455,.03,.515,.955);
+}
+.nitrd_resource::before {
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    content: '';
+    border: 1px solid #a98760;
+    border-radius: 50%;
+    width: 43px;
+    height: 43px;
+    margin-right: 10px;
+    -webkit-transition: all .1s cubic-bezier(.455,.03,.515,.955);
+    transition: all .1s cubic-bezier(.455,.03,.515,.955);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 23%;
+    background-image: url(/wp-content/uploads/2021/05/link.png);
+}
+
+.news-category-title {
+color: #FFF;
+font-weight:bold;
+font-size:2em !important;
+}
+
+/* news search */
+.container-search-news{
+  margin: 0 auto;
+  padding: 0px;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  vertical-align: middle;
+  white-space: nowrap;
+	background-color: #F4F4F4;
+	height: 50px;
+	display: inline-block; 
+	text-align: left; 
+	margin-bottom:20px;
+	border:1px;
+	border-style: solid;
+	border-color: gray;
+}
+
+.container-search-news .search-news-input-element{
+  width: 100%;
+  height: 50px;
+  background: #FAFAFA;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  padding-left: 15px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+	margin-left: auto;
+  margin-right: auto;
+}
+
+.container-search-news input .search-news-input-element::-webkit-input-placeholder {
+   color: #65737e;
+}
+ 
+.container-search-news input .search-news-input-element:-moz-placeholder { /* Firefox 18- */
+   color: #65737e;  
+}
+ 
+.container-search-news input .search-news-input-element::-moz-placeholder {  /* Firefox 19+ */
+   color: #65737e;  
+}
+ 
+.container-search-news input .search-news-input-element:-ms-input-placeholder {  
+   color: #65737e;  
+}
+
+.container-search-news button.icon{
+    -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  -moz-border-radius-topright: 5px;
+  -moz-border-radius-bottomright: 5px;
+	-moz-border-radius-topleft: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: none;
+  background: #FAFAFA;
+	background: none;
+  height: 40px;
+  width: 40px;
+  color: black;
+  opacity: 0;
+  font-size: 18pt;
+  -webkit-transition: all .55s ease;
+  -moz-transition: all .55s ease;
+  -ms-transition: all .55s ease;
+  -o-transition: all .55s ease;
+  transition: all .55s ease;
+  position: relative;
+	display: inline-grid; 
+	text-align: left; 
+	position: absolute;
+  top: 0;
+  right: 0;
+  
+}
+
+.fa {
+	padding-top:10px;
+}
+
+.container-search-news:hover button.icon, .container-search-news:active button.icon, .container-search-news:focus button.icon{
+    outline: none;
+    opacity: 1;
+    margin-left: -45px;
+  }
+ 
+  .container-search-news:hover button.icon:hover{
+    background: #FAFAFA;
+		background: none;
+  }
+
+/* news search */
+
+select#categorywidget1.widget-1 {
+	height:45px;
+	font-size: 0.8em;
+	border-width:3px;
+}
+
+
+.widget_categories ul li {
+	 border: 1px solid #ebebeb;
+}
+
+.widget_categories ul li:hover {
+	 background-color: #ebebeb;
+}
+
+.widget_categories ul li a {
+    padding-left: 5px;
+	  display:block;
+}
+
+.widget_categories ul>li a:before {
+    content: "\f105";
+    font-family: FontAwesome;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    float: right;
+	  padding-right: 5px;
+    text-decoration: inherit;
+    font-size: 14px;
+}
+.widget_categories li {
+width: 100% !important; 
+}
+.widget-title {
+font-size:1.1em !important;
+}
+.widget_categories li a {
+font-size:0.9em !important;
+font-weight:bold;
+}
+.widget_categories ul li {
+margin: 1px !important;
+}
+
+.display-posts-listing.image-left .image {
+    width:200px;
+	  height:200px;
+}
+
+.listing-item img {
+    width: 200px;
+}
+
+
+
+/* site search */
+
+.search-form {
+  display: block;
+  position: relative;
+}
+
+.box {
+  display: inline-block; 
+	text-align: left; 
+}
+
+.container-4{
+  margin: 0 auto;
+  padding: 0px;
+  position: relative;
+  overflow: hidden;
+  width: 200px;
+  vertical-align: middle;
+  white-space: nowrap;
+	background-color: #F4F4F4;
+	height: 50px;
+	display: inline-block; 
+	text-align: left; 
+}
+
+.container-4 input#search{
+  width: 200px;
+  height: 50px;
+  background: #FAFAFA;
+  border: none;
+  font-size: 10pt;
+  float: left; 
+  padding-left: 15px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+	margin-left: auto;
+  margin-right: auto;
+}
+
+.container-4 input#search::-webkit-input-placeholder {
+   color: #65737e;
+}
+ 
+.container-4 input#search:-moz-placeholder { /* Firefox 18- */
+   color: #65737e;  
+}
+ 
+.container-4 input#search::-moz-placeholder {  /* Firefox 19+ */
+   color: #65737e;  
+}
+ 
+.container-4 input#search:-ms-input-placeholder {  
+   color: #65737e;  
+}
+
+.container-4 button.icon{
+    -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  -moz-border-radius-topright: 5px;
+  -moz-border-radius-bottomright: 5px;
+	-moz-border-radius-topleft: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: none;
+  background: #FAFAFA;
+	background: none;
+  height: 40px;
+  width: 40px;
+  color: #FAFAFA;
+  opacity: 0;
+  font-size: 18pt;
+  -webkit-transition: all .55s ease;
+  -moz-transition: all .55s ease;
+  -ms-transition: all .55s ease;
+  -o-transition: all .55s ease;
+  transition: all .55s ease;
+  position: relative;
+	display: inline-grid; 
+	text-align: left; 
+	position: absolute;
+  top: 0;
+  right: 0;
+  
+}
+
+.fa {
+	padding-top:10px;
+}
+
+.container-4:hover button.icon, .container-4:active button.icon, .container-4:focus button.icon{
+    outline: none;
+    opacity: 1;
+    margin-left: -45px;
+  }
+ 
+  .container-4:hover button.icon:hover{
+    background: #FAFAFA;
+		background: none;
+  }
+
+/* site search */
+
+/* bing search */
+#bcs-searchbox {
+margin-top:0.5em;
+}
+.bcs-modal-header h2 {
+    padding-left:1em !important;
+    margin: 0;
+    font: 20px/1.2em 'Segoe UI',Arial,Helvetica,Sans-Serif;
+    color:white;
+}
+.bcs-results {
+ text-transform: none !important;
+}
+.bcs-modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    -webkit-animation-name: bcs-animate-modal;
+    -webkit-animation-duration: .4s;
+    animation-name: bcs-animate-modal;
+    animation-duration: .4s;
+    display: block;
+}
+
+.bcs-modal-body {
+    padding: 2px 16px;
+    background-color: white;
+    max-height: calc(100% - 156px);
+    overflow: auto;
+    display: block;
+}
+
+.bcs-results {
+    margin: 10px 0 0 0;
+    padding: 0 0 20px 0;
+    color: #666;
+    width: 100%;
+    display: inline-block;
+	  white-space: wrap;
+}
+
+.bcs-result {
+    margin: 0;
+    padding: 12px 20px;
+    list-style: none;
+    text-align: left;
+    display: list-item;
+}
+
+.bcs-result h2 {
+    margin: 0;
+    padding: 0;
+    font: 13px/1.2em 'Segoe UI',Arial,Helvetica,Sans-Serif;
+    font-size: 20px;
+    line-height: 24px;
+    padding-bottom: 3px;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.bcs-result h2 a {
+	padding-left: 0px !important;
+}
+.bcs-caption {
+    display: block !important;
+    line-height: 17px;
+    text-align: left;
+}
+.bcs-caption-text p {
+	white-space: normal;
+	overflow-wrap: normal;
+	line-height: 1em;
+	margin-top: 0.5em !important;
+}
+.bcs-caption-text, .bcs-caption-image {
+    display: table-cell;
+    vertical-align: top;
+    margin-right: 10px;
+}
+
+.bc-caption p {
+	display: block;
+}
+/* bing search */
+
+body .onepress-menu ul {
+    width: auto;
+}
+
+@media (min-width: 1200px) {
+    ul.onepress-menu li ul.sub-menu {
+        min-width: 300px;
+    }
+}
+
+		</style>
+		<style class="wp-typography-print-styles" type="text/css">
+ 
+  
+  
+ .onepress-menu a { 
+	font-style: normal;
+	font-size: 15px;
+	letter-spacing: 0px;
+	text-decoration: underline;
+	font-size: 0.9375rem;
+ } 
+  
+  
+  
+ 
+</style>
+
+
+<script>
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "723roztgcp");
+</script>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26939116-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = 
+
+true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YKPHJL4C37"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YKPHJL4C37');
+</script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TRD83WB');</script>
+<!-- End Google Tag Manager -->
+
+<!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
+<script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=EOP&subagency=NITRD" id="_fed_an_ua_tag"></script>
+
+</head>
+
+<div class="usa-banner">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto">
+          <img class="usa-banner__header-flag" src="/uswds/img/us_flag_small.png" alt="U.S. flag">
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto">
+          <p class="usa-banner__header-text">An official website of the United States government</p>
+          <p class="usa-banner__header-action" aria-hidden="true">Info</p>
+        </div>
+        <button class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner__button-text">Here's how you know</span>
+        </button>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content" id="gov-banner" hidden="">
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/uswds/img/icon-dot-gov.svg" alt="Dot gov">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong>
+              <br>
+              A <b>.gov</b> website belongs to an official government organization in the United States.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/uswds/img/icon-https.svg" alt="Https">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong>
+              <br>
+              A <b>lock</b> ( <span class="icon-lock"><svg xmlns="http://www.w3.org/2000/svg" width="52" height="64" viewBox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-labelledby="banner-lock-title banner-lock-description" focusable="false"><title id="banner-lock-title">Lock</title><desc id="banner-lock-description">A locked padlock</desc><path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"></path></svg></span> ) or <b>https://</b> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+jQuery(document).ready(function($){
+$('.site-logo-div').attr('title','Networking and Information Technology Research and Development (NITRD) Program');
+$('.site-logo-div').attr('alt','Networking and Information Technology Research and Development (NITRD) Program');
+});
+</script>
+<script>
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+
+       try {
+        document.getElementById("myBtn").style.display = "block";
+       }
+       catch(err) { /* do nothing */ }
+    } else {
+       try {
+        document.getElementById("myBtn").style.display = "none";
+       }
+       catch(err) { /* do nothing */ }
+    }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+
+</script>
+	
+	
+<body class="home wp-singular page-template page-template-template-frontpage page-template-template-frontpage-php page page-id-10 wp-custom-logo wp-theme-onepress wp-child-theme-onepress-child-master site-header-sticky">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TRD83WB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<div id="header-section" class="h-on-top no-transparent">		<header id="masthead" class="site-header header-full-width is-sticky no-scroll no-t h-on-top" role="banner">
+			<div class="container">
+				<div class="site-branding">
+					<div class="site-brand-inner has-logo-img"><div class="site-logo-div"><a href="https://www.nitrd.gov/" class="custom-logo-link  no-t-logo" rel="home" itemprop="url"><img width="157" height="80" src="https://www.nitrd.gov/wp-content/uploads/2020/10/NITRD-logo-e1603543241562.png" class="custom-logo" alt="NITRD-logo" itemprop="logo" decoding="async" /></a></div></div>				</div>
+				<div class="header-right-wrapper">
+					<a href="#0" id="nav-toggle">Menu<span></span></a>
+					<nav id="site-navigation" class="main-navigation" role="navigation">
+						<ul class="onepress-menu">
+							<li id="menu-item-148" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-148"><a href="https://www.nitrd.gov/" aria-current="page">HOME</a></li>
+<li id="menu-item-8336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8336"><a href="https://www.nitrd.gov/about-nitrd/">ABOUT NITRD</a>
+<ul class="sub-menu">
+	<li id="menu-item-8337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8337"><a href="https://www.nitrd.gov/about-nitrd/">ABOUT NITRD PROGRAM</a></li>
+	<li id="menu-item-8253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8253"><a href="https://www.nitrd.gov/coordination-areas/ai">COORDINATION AREAS</a>
+	<ul class="sub-menu">
+		<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="https://www.nitrd.gov/coordination-areas/ai/">ARTIFICIAL INTELLIGENCE</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1125"><a href="https://www.nitrd.gov/program-component-areas/">PROGRAM COMPONENT AREAS (PCA)s</a></li>
+	<li id="menu-item-2659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2659"><a href="https://www.nitrd.gov/legislation/">HPCC/NITRD AUTHORIZING LEGISLATION</a></li>
+</ul>
+</li>
+<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-127"><a href="https://www.nitrd.gov/news/">NEWS &#038; EVENTS</a>
+<ul class="sub-menu">
+	<li id="menu-item-641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-641"><a href="https://www.nitrd.gov/news/">NITRD NEWS</a></li>
+	<li id="menu-item-640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-640"><a href="/events/">NITRD EVENTS</a></li>
+</ul>
+</li>
+<li id="menu-item-642" class="open-left menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-642"><a href="/resources/">PUBLICATIONS &#038; RESOURCES</a>
+<ul class="sub-menu">
+	<li id="menu-item-8312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8312"><a href="https://www.nitrd.gov/publications/">PUBLICATION LIBRARY</a></li>
+	<li id="menu-item-747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-747"><a href="https://www.nitrd.gov/presentations/">PRESENTATION LIBRARY</a></li>
+	<li id="menu-item-5985" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5985"><a href="https://www.nitrd.gov/nitrd-dashboard">NITRD DASHBOARD</a></li>
+	<li id="menu-item-5986" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5986"><a href="https://www.nitrd.gov/ai-rd-investments/">AI R&#038;D INVESTMENTS</a></li>
+	<li id="menu-item-5023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5023"><a href="https://www.nitrd.gov/ai-rd-testbed-inventory/">AI R&#038;D TESTBED INVENTORY</a></li>
+	<li id="menu-item-5024" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5024"><a href="https://www.nitrd.gov/ai-research-program-repository/">AI RESEARCH PROGRAM REPOSITORY</a></li>
+	<li id="menu-item-6432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6432"><a href="https://www.nitrd.gov/hecportal/">FEDERAL HIGH END COMPUTING INFORMATION PORTAL</a></li>
+	<li id="menu-item-8328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8328"><a href="https://www.nitrd.gov/federal-register-documents/">FEDERAL REGISTER DOCUMENTS</a></li>
+	<li id="menu-item-7988" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7988"><a href="https://www.nitrd.gov/stem4all/">STEM PORTAL</a></li>
+</ul>
+</li>
+<li id="menu-item-2117" class="open-left menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2117"><a href="/nitrd-national-coordination-office-nco/">NCO</a>
+<ul class="sub-menu">
+	<li id="menu-item-2366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2366"><a href="/nitrd-national-coordination-office-nco/">NATIONAL COORDINATION OFFICE (NCO)</a></li>
+	<li id="menu-item-5925" class="noExitNotifier menu-item menu-item-type-custom menu-item-object-custom menu-item-5925"><a href="https://forms.office.com/g/KbQRyUdgh3">CONTACT US</a></li>
+</ul>
+</li>
+<li id="menu-item-3891" class="open-left menu-item menu-item-type-custom menu-item-object-custom menu-item-3891"><a href="https://www.nitrd.gov/search/"><div class="search-icon" style=""><img src="/wp-content/uploads/2021/04/search-icon.gif" title="Search NITRD.gov" alt="search"></img></div></a></li>
+						</ul>
+					</nav>
+
+				</div>
+			</div>
+		</header>
+		</div>
+	<div id="content" class="site-content">
+		<main id="main" class="site-main" role="main">
+            <section id="slider"  class="section-slider onepage-section">
+	<div class="section-op-slider-wrapper section-op-slider-parallax">
+		<div class="section-op-slider owl-carousel owl-theme" data-settings="{&quot;loop&quot;:true,&quot;autoplay&quot;:true,&quot;autoplayHoverPause&quot;:true,&quot;dots&quot;:false,&quot;nav&quot;:true,&quot;autoHeight&quot;:false,&quot;mouseDrag&quot;:true,&quot;touchDrag&quot;:true,&quot;rewind&quot;:true,&quot;parallax&quot;:true,&quot;animateOut&quot;:false,&quot;animateIn&quot;:false,&quot;autoplayTimeout&quot;:10000,&quot;autoplaySpeed&quot;:300}">
+						<div class="item">
+								<img src="https://www.nitrd.gov/wp-content/uploads/2025/04/90-FR-17835-scaled.jpg" alt="">
+								<div class="item--content container text-center">
+
+																			<div class="item--desc"><h2 class="front-page-slider-title">COMMENTS RECEIVED IN RESPONSE TO REQUEST FOR INFORMATION ON THE DEVELOPMENT OF A 2025 NATIONAL AI R&amp;D STRATEGIC PLAN</h2>
+<p class="front-page-slider-desc">On behalf of the Office of Science and Technology Policy (OSTP), the Networking and Information Technology Research and Development (NITRD) National Coordination Office (NCO) published a Request for Information (RFI) on April 29, 2025 (closed May 29, 2025). The new strategic plan will map out federal R&amp;D over the next 3-5 years to accelerate AI-driven innovation, enhance U.S. economic and national security, promote human flourishing, and maintain U.S. dominance in AI.</p>
+</div>
+																			<div class="item-actions">
+								 <a href="https://www.nitrd.gov/coordination-areas/ai/90-fr-17835-responses/" class="btn btn-theme-primary btn-lg">MORE</a>							</div>
+						
+				</div>
+			</div>
+						<div class="item">
+								<img src="https://www.nitrd.gov/wp-content/uploads/2025/04/AI-RD.jpg" alt="">
+								<div class="item--content container text-center">
+
+																			<div class="item--desc"><h2 class="front-page-slider-title">COMMENTS RECEIVED IN RESPONSE TO: REQUEST FOR INFORMATION ON THE DEVELOPMENT OF AN ARTIFICIAL INTELLIGENCE (AI) ACTION PLAN</h2>
+<p class="front-page-slider-desc">Comments received in response to request for information on the development of an Artificial Intelligence (AI) Action Plan (&#8220;Plan&#8221;). This Plan, as directed by a Presidential Executive Order on January 23, 2025, will define the priority policy actions needed to sustain and enhance America&#8217;s AI dominance, and to ensure that unnecessarily burdensome requirements do not hamper private sector AI innovation.</p>
+</div>
+																			<div class="item-actions">
+								 <a href="https://www.nitrd.gov/coordination-areas/ai/90-fr-9088-responses/" class="btn btn-danger btn-lg">MORE</a>							</div>
+						
+				</div>
+			</div>
+						<div class="item">
+								<img src="https://www.nitrd.gov/wp-content/uploads/2024/04/subscribe-for-updates.jpg" alt="">
+								<div class="item--content container text-center">
+
+																			<div class="item--desc"><h2 class="front-page-slider-title">SUBSCRIBE TO UPDATES FROM NITRD</h2>
+<p class="front-page-slider-desc">Stay on top of breaking news and information about the Networking and Information Technology Research and Development (NITRD) Program. Receive the latest news, including newsletters, public meeting agendas, and other announcements.</p>
+</div>
+																			<div class="item-actions">
+								 <a href="https://public.govdelivery.com/accounts/USFEDNITRD/subscriber/new?category_id=USFEDNITRD_C1" class="btn btn-theme-primary btn-lg">SUBSCRIBE</a>							</div>
+						
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</section>
+			<section id="sid1754582178537"  class="section-sid1754582178537 onepage-section section-meta section-padding">
+								<div class="container">
+																<div class="section-content-area custom-section-content"><p style="max-width: 900px;margin: 0rem auto;background-color: #f2f6fb;border-left: 6px solid #0072ce;padding: 1.5rem;border-radius: 8px;font-size: 1.2em;text-align: center;line-height: 1.6">The Networking and Information Technology Research and Development (NITRD) Program coordinates Federal R&amp;D to identify, develop, and transition into use the secure, advanced IT, high-performance computing, networking, and software capabilities needed by the Nation, and to foster public-private partnerships that provide world-leading IT capabilities.</p>
+</div>
+				</div>
+							</section>
+						<section id="sid1603479197098"  class="section-sid1603479197098 onepage-section section-meta section-padding">
+								<div class="container">
+																										<div class="section-title-area">
+																												<h2 class="section-title">INNOVATE - COORDINATE - LEAD</h2>																										</div>
+																			<div class="section-content-area custom-section-content"><div class="cards">
+<div class="card">
+<div class="card-inner">
+<div class="card-image"><a title="Publications" href="/publications/"><img decoding="async" title="Publications" src="/wp-content/uploads/2024/12/publications.png"></a></div>
+<div class="card-title">
+<h3><span id="Publications"><a title="Publications" href="/publications/">Publications</a></span></h3>
+</div>
+<div class="card-content">Explore NITRD documents and reports including Federal Plans, Implementation Roadmaps, Strategy Documents, Scientific and Technical Reports, Workshop Reports, Supplements to the President’s Budget.</div>
+</div>
+</div>
+<div class="card">
+<div class="card-inner">
+<div class="card-image"><a title="NITRD Dashboard" href="/nitrd-dashboard/"><img decoding="async" title="NITRD Dashboard" src="/wp-content/uploads/2020/10/investments.png"></a></div>
+<div class="card-title">
+<h3><span id="Investments"><a title="Program Component Areas" href="/nitrd-dashboard/">Investments</a></span></h3>
+</div>
+<div class="card-content">The annual NITRD and NAIIO Supplement to the President’s Budget provides a technical summary of NITRD research investments and activities planned and coordinated through the NITRD Program in a given Federal budget cycle. Budget information for the entire span of the NITRD Program, mirroring that reported in the annual Supplements, is captured in visual and interactive forms in the NITRD Dashboard.</div>
+</div>
+</div>
+<div class="card">
+<div class="card-inner">
+<div class="card-image"><a title="R&amp;D Resources" href="/resources/"><img decoding="async" title="R&amp;D Resources" src="/wp-content/uploads/2020/12/rd-resources.png"></a></div>
+<div class="card-title">
+<h3><span id="RD-Resources"><a title="R&amp;D Resources" href="/resources/">R&amp;D Resources</a></span></h3>
+</div>
+<div class="card-content">R&amp;D RESOURCES: Dashboard, Libraries and Resource Guides, Federal programs, interagency collaboration opportunities, and other activities that support research and development, facilitate collaboration and coordination between member agencies, academia, industry, and other government entities.</div>
+</div>
+</div>
+</div>
+</div>
+				</div>
+							</section>
+						<section id="sid1603379029970"  class="section-sid1603379029970 onepage-section section-meta section-padding">
+								<div class="container">
+																<div class="section-content-area custom-section-content"><div>
+<div style="width: 90%;margin-left: 5%;margin-right: 5%">
+<p style="font-size: 1.2em;text-align: center;color: white">The annual <a style="color: #fff;text-decoration: underline" title="NITRD Program Supplement to the President's Budget" href="/publications/"><em>NITRD Program Supplement to the President’s Budget</em></a> provides a technical summary of NITRD research investments and activities planned and coordinated through the NITRD Program in a given Federal budget cycle. Budget information for the entire span of the NITRD Program, mirroring that reported in the annual Supplements, is captured in visual and interactive forms in the <a style="color: #fff;text-decoration: underline" title="NITRD Dashboard" href="/nitrd-dashboard/">NITRD Dashboard</a>.</p>
+</div>
+</div>
+</div>
+				</div>
+							</section>
+						<section id="news"  class="section-news section-padding onepage-section">
+						<div class="container">
+							<div class="section-title-area">
+										<h2 class="section-title">Latest News</h2>									</div>
+						<div class="section-content">
+				<div class="row">
+					<div class="col-sm-12">
+						<div class="blog-entry wow slideInUp">
+														
+																									<article id="post-8183" class="list-article clearfix post-8183 post type-post status-publish format-standard has-post-thumbnail hentry category-ai category-federal-register-notice">
+		<div class="list-article-thumb">
+		<a title="https://www.nitrd.gov/90-fr-17835-responses/" href="https://www.nitrd.gov/90-fr-17835-responses/">
+			<img width="300" height="150" src="https://www.nitrd.gov/wp-content/uploads/2025/06/90-fr-17835-responses-300x150.png" class="attachment-onepress-blog-small size-onepress-blog-small wp-post-image" alt="90-fr-17835-responses" decoding="async" />		</a>
+	</div>
+	
+	<div class="list-article-content">
+		
+						<header class="entry-header">
+			<h2 class="entry-title"><a href="https://www.nitrd.gov/90-fr-17835-responses/" rel="bookmark">Comments received in Response To Request for Information on the Development of a 2025 National Artificial Intelligence (AI) Research and Development (R&#038;D) Strategic Plan</a></h2>		</header><!-- .entry-header -->
+
+                <div class="category-meta-date-div"><span class="category-meta-date">(June 11, 2025)</span></div>
+			<div class="list-article-meta">
+				<a href="https://www.nitrd.gov/category/ai/" rel="category tag">AI</a> / <a href="https://www.nitrd.gov/category/federal-register-notice/" rel="category tag">FEDERAL REGISTER NOTICE</a>			</div>
+
+						<div class="entry-excerpt">
+			<p>On behalf of the Office of Science and Technology Policy (OSTP), the Networking and Information Technology Research and Development (NITRD) National Coordination Office (NCO) published a Request for Information (RFI) &#8230;</p>
+		</div><!-- .entry-content -->
+					</div>
+
+</article><!-- #post-## -->
+
+																	<article id="post-8095" class="list-article clearfix post-8095 post type-post status-publish format-standard has-post-thumbnail hentry category-ai category-federal-register-notice">
+		<div class="list-article-thumb">
+		<a title="https://www.nitrd.gov/request-for-information-on-the-development-of-a-2025-national-artificial-intelligence-ai-research/" href="https://www.nitrd.gov/request-for-information-on-the-development-of-a-2025-national-artificial-intelligence-ai-research/">
+			<img width="300" height="150" src="https://www.nitrd.gov/wp-content/uploads/2025/04/90-FR-17835-300x150.png" class="attachment-onepress-blog-small size-onepress-blog-small wp-post-image" alt="90-FR-17835" decoding="async" />		</a>
+	</div>
+	
+	<div class="list-article-content">
+		
+						<header class="entry-header">
+			<h2 class="entry-title"><a href="https://www.nitrd.gov/request-for-information-on-the-development-of-a-2025-national-artificial-intelligence-ai-research/" rel="bookmark">Request for Information on the Development of a 2025 National Artificial Intelligence (AI) Research and Development (R&#038;D) Strategic Plan</a></h2>		</header><!-- .entry-header -->
+
+                <div class="category-meta-date-div"><span class="category-meta-date">(April 29, 2025)</span></div>
+			<div class="list-article-meta">
+				<a href="https://www.nitrd.gov/category/ai/" rel="category tag">AI</a> / <a href="https://www.nitrd.gov/category/federal-register-notice/" rel="category tag">FEDERAL REGISTER NOTICE</a>			</div>
+
+						<div class="entry-excerpt">
+			<p>On behalf of the Office of Science and Technology Policy (OSTP), the Networking and Information Technology Research and Development (NITRD) National Coordination Office (NCO) welcomes input from all interested parties &#8230;</p>
+		</div><!-- .entry-content -->
+					</div>
+
+</article><!-- #post-## -->
+
+																	<article id="post-8088" class="list-article clearfix post-8088 post type-post status-publish format-standard has-post-thumbnail hentry category-ai category-federal-register-notice">
+		<div class="list-article-thumb">
+		<a title="https://www.nitrd.gov/90-fr-9088-responses/" href="https://www.nitrd.gov/90-fr-9088-responses/">
+			<img width="300" height="150" src="https://www.nitrd.gov/wp-content/uploads/2025/04/90-fr-9088-responses-300x150.png" class="attachment-onepress-blog-small size-onepress-blog-small wp-post-image" alt="90-fr-9088-responses" decoding="async" />		</a>
+	</div>
+	
+	<div class="list-article-content">
+		
+						<header class="entry-header">
+			<h2 class="entry-title"><a href="https://www.nitrd.gov/90-fr-9088-responses/" rel="bookmark">Comments Received in Response to: Request for Information on the Development of an Artificial Intelligence (AI) Action Plan (“Plan”)</a></h2>		</header><!-- .entry-header -->
+
+                <div class="category-meta-date-div"><span class="category-meta-date">(April 24, 2025)</span></div>
+			<div class="list-article-meta">
+				<a href="https://www.nitrd.gov/category/ai/" rel="category tag">AI</a> / <a href="https://www.nitrd.gov/category/federal-register-notice/" rel="category tag">FEDERAL REGISTER NOTICE</a>			</div>
+
+						<div class="entry-excerpt">
+			<p>The Office of Science and Technology Policy (OSTP) via the Networking and Information Technology Research and Development (NITRD) National Coordination Office (NCO) and the National Science Foundation, published a Request &#8230;</p>
+		</div><!-- .entry-content -->
+					</div>
+
+</article><!-- #post-## -->
+
+															
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+						</section>
+				<section id="sid1603215787449"  class="section-sid1603215787449 onepage-section section-meta section-padding">
+								<div class="container">
+																										<div class="section-title-area">
+																												<h2 class="section-title">AGENCIES</h2>																										</div>
+																			<div class="section-content-area custom-section-content"><div class="agency-logos-section">
+<div class="agency-logo-div"><a href="https://www.ahrq.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="AHRQ" src="https://www.nitrd.gov/documents/images/AHRQ.png" alt="AHRQ"></a></div>
+<div class="agency-logo-div"><a href="https://www.army.mil/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="ARMY" src="https://www.nitrd.gov/documents/images/ARMY-Logo-1.png" alt="ARMY"></a></div>
+<div class="agency-logo-div"><a href="https://www.healthit.gov/topic/about-astponc" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="Office of the Assistant Secretary for Technology Policy (ASTP)" src="https://www.nitrd.gov/documents/images/ASTP-Logo.png" alt="Office of the Assistant Secretary for Technology Policy (ASTP)"></a></div>
+<div class="agency-logo-div"><a href="https://www.darpa.mil/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="DARPA" src="https://www.nitrd.gov/documents/images/DARPA-Logo.png" alt="DARPA"></a></div>
+<div class="agency-logo-div"><a href="https://www.dhs.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="DHS" src="https://www.nitrd.gov/documents/images/DHS.png" alt="DHS"></a></div>
+<div class="agency-logo-div"><a href="https://www.energy.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="DOE" src="https://www.nitrd.gov/documents/images/DOE.png" alt="DOE"></a></div>
+<div class="agency-logo-div"><a href="https://www.energy.gov/science/office-science" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="DOE-SC" src="https://www.nitrd.gov/documents/images/DOE-SC.png" alt="DOE-SC"></a></div>
+<div class="agency-logo-div"><a href="https://www.justice.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="DOJ" src="https://www.nitrd.gov/documents/images/DOJ-logo.png" alt="DOJ"></a></div>
+<div class="agency-logo-div"><a href="https://www.war.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="DOW" src="https://www.nitrd.gov/wp-content/uploads/2025/09/DOW.png" alt="DOW"></a></div>
+<div class="agency-logo-div"><a href="https://www.nasa.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="NASA" src="https://www.nitrd.gov/documents/images/NASA.png" alt="NASA"></a></div>
+<div class="agency-logo-div"><a href="https://www.navy.mil/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="NAVY" src="https://www.nitrd.gov/documents/images/NAVY-Logo.png" alt="NAVY"></a></div>
+<div class="agency-logo-div"><a href="https://www.nih.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="NIH" src="https://www.nitrd.gov/documents/images/NIH_logo.png" alt="NIH"></a></div>
+<div class="agency-logo-div"><a href="https://www.cdc.gov/niosh/index.htm" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="The National Institute for Occupational Safety and Health (NIOSH)" src="https://www.nitrd.gov/documents/images/NIOSH_logo.png" alt="The National Institute for Occupational Safety and Health (NIOSH)"></a></div>
+<div class="agency-logo-div"><a href="https://www.nist.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="NIST" src="https://www.nitrd.gov/documents/images/NIST-logo.png" alt="NIST"></a></div>
+<div class="agency-logo-div"><a href="https://www.energy.gov/nnsa/national-nuclear-security-administration" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="NNSA" src="https://www.nitrd.gov/documents/images/NNSA_Logo.png" alt="NNSA"></a></div>
+<div class="agency-logo-div"><a href="https://www.noaa.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="NOAA" src="https://www.nitrd.gov/documents/images/NOAA-logo.png" alt="NOAA"></a></div>
+<div class="agency-logo-div"><a href="https://www.nsa.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="NSA" src="https://www.nitrd.gov/documents/images/NSA.png" alt="NSA"></a></div>
+<div class="agency-logo-div"><a href="https://www.nsf.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="NSF" src="https://www.nitrd.gov/documents/images/NSF-Logo.png" alt="NSF"></a></div>
+<div class="agency-logo-div"><a href="https://www.af.mil/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="Air Force" src="https://www.nitrd.gov/documents/images/US-Air-Force-Logo.png" alt="Air Force"></a></div>
+<div class="agency-logo-div"><a href="https://www.usgs.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="USGS" src="https://www.nitrd.gov/documents/images/USGS-logo.png" alt="USGS"></a></div>
+<div class="agency-logo-div"><a href="https://www.uspto.gov/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="USPTO" src="https://www.nitrd.gov/documents/images/USPTO-logo.png" alt="USPTO"></a></div>
+<div class="agency-logo-div"><a href="https://www.research.va.gov/naii/" target="_blank" rel="noopener"><img decoding="async" class="agency-logos" title="Department of Veteran Affairs (VA)" src="https://www.nitrd.gov/documents/images/VA.png" alt="Department of Veteran Affairs (VA)"></a></div>
+</div>
+</div>
+				</div>
+							</section>
+					</main>
+	</div>
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+				
+		<div class="site-info">
+			<div class="container">
+									<div class="btt">
+						<a class="back-to-top" href="#page" title="Back To Top"><i class="fa fa-angle-double-up wow flash" data-wow-duration="2s"></i></a>
+					</div>
+								<p style="text-align: center">490 L'Enfant Plaza SW, Suite 8001, Washington, DC 20024</p>
+<p style="text-align: center"><a class="noExitNotifier" href="https://forms.office.com/g/KbQRyUdgh3" target="_blank" rel="noopener">Contact Us</a> | <a href="/privacy-policy/">Privacy Policy</a> | <a class="noExitNotifier" title="subscribe for updates" href="https://public.govdelivery.com/accounts/USFEDNITRD/subscriber/new?category_id=USFEDNITRD_C1" target="_blank" rel="noopener">Subscribe for Updates</a> | <a title="No FEAR Act" href="/documents/No-FEAR-Act-Notice.pdf">No FEAR Act</a></p>
+<img style="height: 80px" title="NITRD" src="/wp-content/uploads/2020/10/NITRD-Logo-white.png" />
+<div class="footer-social"><a class="icon" style="text-decoration: none" title="X" href="https://x.com/NITRDgov" target="_blank" rel="noopener"><img class="icon" title="X" src="/wp-content/uploads/2020/10/default_twitter.png" alt="Twitter" width="40" /></a><a class="icon" style="text-decoration: none" title="YouTube" href="https://www.youtube.com/@NITRDgov" target="_blank" rel="noopener"><img class="icon" title="YouTube" src="/wp-content/uploads/2020/10/default_youtube.png" alt="YouTube" width="40" /></a><a class="icon" title="LinkedIn" href="https://www.linkedin.com/company/nitrdgov/" target="_blank" rel="noopener"><img class="icon" title="LinkedIn" src="/wp-content/uploads/2020/10/default_linkedin.png" alt="LinkedIn" width="40" /></a></div>			</div>
+		</div>
+		<!-- .site-info -->
+
+	</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/onepress-child-master\/*","\/wp-content\/themes\/onepress\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZlTkj8Vgi5zMb-BORaW967fTrc_zhuH0" id="gmap-js"></script>
+<script type="text/javascript" src="https://www.nitrd.gov/wp-content/plugins/flexy-breadcrumb/public/js/flexy-breadcrumb-public.js" id="flexy-breadcrumb-js"></script>
+<script type="text/javascript" id="onepress-theme-js-extra">
+/* <![CDATA[ */
+var onepress_js_settings = {"onepress_disable_animation":"","onepress_disable_sticky_header":"","onepress_vertical_align_menu":"1","hero_animation":"flipInX","hero_speed":"5000","hero_fade":"750","submenu_width":"0","hero_duration":"5000","hero_disable_preload":"","disabled_google_font":"1","is_home":"","gallery_enable":"1","is_rtl":"","parallax_speed":"0.5"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nitrd.gov/wp-content/themes/onepress/assets/js/theme-all.min.js" id="onepress-theme-js"></script>
+<script type="text/javascript" id="jquery.bully-js-extra">
+/* <![CDATA[ */
+var Onepress_Bully = {"enable_label":"1","disable_mobile":"1","sections":{"slider":{"id":"slider","_id":"slider","inverse":1,"enable":false,"title":""},"sid1603722937044":{"id":"sid1603722937044","_id":"sid1603722937044","inverse":false,"enable":false,"title":"Alert"},"sid1754582178537":{"id":"sid1754582178537","_id":"sid1754582178537","inverse":false,"enable":true,"title":"Vision"},"sid1603214286648":{"id":"sid1603214286648","_id":"sid1603214286648","inverse":false,"enable":true,"title":"INNOVATION THROUGH NITRD COORDINATION"},"sid1713461811517":{"id":"sid1713461811517","_id":"sid1713461811517","inverse":false,"enable":true,"title":"Connect-With-Us"},"sid1604146584542":{"id":"sid1604146584542","_id":"sid1604146584542","inverse":false,"enable":false,"title":"COORDINATION AREAS"},"sid1603479197098":{"id":"sid1603479197098","_id":"sid1603479197098","inverse":false,"enable":true,"title":"INNOVATE - COORDINATE - LEAD"},"sid1603379029970":{"id":"sid1603379029970","_id":"sid1603379029970","inverse":false,"enable":true,"title":"NITRD PROGRAM SUPPLEMENT TO THE PRESIDENT'S BUDGET"},"news":{"id":"news","_id":"news","inverse":false,"enable":false,"title":"Latest News"},"sid1675347023465":{"id":"sid1675347023465","_id":"sid1675347023465","inverse":false,"enable":false,"title":"AGENCY NEWS &amp; ANNOUNCEMENTS"},"sid1603222370610":{"id":"sid1603222370610","_id":"sid1603222370610","inverse":false,"enable":false,"title":"Quote"},"sid1603215787449":{"id":"sid1603215787449","_id":"sid1603215787449","inverse":false,"enable":true,"title":"AGENCIES"},"sid1603297323281":{"id":"sid1603297323281","_id":"sid1603297323281","inverse":false,"enable":false,"title":"STAY ENGAGED, STAY CONNECTED!"}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nitrd.gov/wp-content/themes/onepress/assets/js/jquery.bully.js" id="jquery.bully-js"></script>
+<script type="text/javascript" src="https://www.nitrd.gov/wp-content/themes/onepress/assets/js/owl.carousel.min.js" id="onepress-gallery-carousel-js"></script>
+<script type="text/javascript" src="https://www.nitrd.gov/wp-content/plugins/onepress-plus/assets/js/slider.js" id="onepress-plus-slider-js"></script>
+<script type="text/javascript" id="onepress-plus-js-extra">
+/* <![CDATA[ */
+var OnePress_Plus = {"ajax_url":"https:\/\/www.nitrd.gov\/wp-admin\/admin-ajax.php","browser_warning":" Your browser does not support the video tag. I suggest you upgrade your browser."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nitrd.gov/wp-content/plugins/onepress-plus/assets/js/onepress-plus.js" id="onepress-plus-js"></script>
+
+<button onclick="topFunction()" id="myBtn" title="Go to top"><span style="font-size:1.6em; font-weight:bold;">&#x2191; Back to Top</span></button>
+
+
+
+</body>
+</html>

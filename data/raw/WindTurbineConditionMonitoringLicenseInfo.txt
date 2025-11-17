@@ -1,0 +1,4 @@
+### License Info
+1. In any use of the datasets, you need to acknowledge the US Department of Energy (DOE)/National Renewable Energy Laboratory (NREL) for providing the datasets to support your work.
+2. Except the acknowledgements as listed in 1, any other discussions of DOE/NREL in your planned publications (electronic or print format) need to be reviewed and approved by DOE/NREL.
+3. You cannot share the datasets directly with others but are encouraged to direct them to contact NREL for information on downloading the datasets. 

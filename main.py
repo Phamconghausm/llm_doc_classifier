@@ -1,13 +1,28 @@
 # main.py
 import os, json
 from fastapi import FastAPI, UploadFile, File, Depends, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
 from utils.extractor import extract_text
 from utils.llm_client import classify_document
 from utils.db import init_db, SessionLocal, Document, Category
 from crawler import crawl_files
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
+# Cho phép frontend localhost truy cập
+origins = [
+    "http://localhost:5173",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,      # frontend URL
+    allow_credentials=True,
+    allow_methods=["*"],        # GET, POST, PUT...
+    allow_headers=["*"],        # tất cả header
+)
 init_db()
 
 # Dependency

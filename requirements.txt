@@ -7,3 +7,4 @@ python-docx
 openai
 sqlalchemy
 python-dotenv
+fastapi[all]

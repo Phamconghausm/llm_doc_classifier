@@ -19,7 +19,7 @@ HEADERS = {
 
 ALLOWED_EXTS = [".pdf", ".docx", ".txt"]
 
-def crawl_files(max_files=5, max_pages=10):
+def crawl_files(max_files=10, max_pages=20):
     session = requests.Session()
     session.headers.update(HEADERS)
 

@@ -1,5 +1,8 @@
 import os
 import json
+import mimetypes
+from urllib.parse import quote
+
 from fastapi import FastAPI, UploadFile, File, Depends, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
@@ -18,7 +21,7 @@ from crawler import crawl_files
 app = FastAPI(
     title="LLM Document Classifier API",
     version="1.0",
-    description="API for document upload, classification, crawling, and retrieval."
+    description="Upload, classify, crawl, and download documents using LLM"
 )
 
 # ======================================================
@@ -34,7 +37,7 @@ app.add_middleware(
 )
 
 # ======================================================
-# Database Dependency
+# Database
 # ======================================================
 
 def get_db():
@@ -46,8 +49,26 @@ def get_db():
 
 init_db()
 
+DATA_DIR = "data/raw"
+os.makedirs(DATA_DIR, exist_ok=True)
+
 # ======================================================
-# Pydantic Schemas
+# Helper
+# ======================================================
+
+def get_document_and_path(id: int, db: Session):
+    doc = db.query(Document).filter(Document.id == id).first()
+    if not doc:
+        raise HTTPException(status_code=404, detail="Document not found")
+
+    file_path = os.path.join(DATA_DIR, doc.filename)
+    if not os.path.exists(file_path):
+        raise HTTPException(status_code=404, detail="File not found on server")
+
+    return doc, file_path
+
+# ======================================================
+# Schemas
 # ======================================================
 
 class DocumentResponse(BaseModel):
@@ -73,7 +94,6 @@ class DocumentContentResponse(BaseModel):
     document_id: int
     content: str
 
-
 # ======================================================
 # Root
 # ======================================================
@@ -82,44 +102,43 @@ class DocumentContentResponse(BaseModel):
 def root():
     return {"message": "LLM Document Classifier API is running"}
 
-
 # ======================================================
-# Upload File
+# Upload
 # ======================================================
 
 @app.post("/upload")
 async def upload_file(file: UploadFile = File(...), db: Session = Depends(get_db)):
-    save_dir = "data/raw"
-    os.makedirs(save_dir, exist_ok=True)
-    save_path = os.path.join(save_dir, file.filename)
+    save_path = os.path.join(DATA_DIR, file.filename)
 
-    # Save file
     try:
         with open(save_path, "wb") as f:
             f.write(await file.read())
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Cannot save file: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
 
-    # Extract text
     text = extract_text(save_path)
     if not text:
-        raise HTTPException(status_code=400, detail="Cannot extract text from file")
+        raise HTTPException(status_code=400, detail="Cannot extract text")
 
-    # Classify via LLM
     result = classify_document(text)
+
     try:
         data = json.loads(result)
     except Exception:
-        data = {"type": "OTHERS", "summary": "Invalid LLM output", "confidence": 0}
+        data = {
+            "type": "OTHERS",
+            "summary": "Invalid LLM output",
+            "confidence": 0.0
+        }
 
-    # Save to database
     doc = Document(
         filename=file.filename,
         doc_type=data.get("type"),
         summary=data.get("summary"),
-        confidence=data.get("confidence", 0),
+        confidence=data.get("confidence", 0.0),
         source="manual"
     )
+
     db.add(doc)
     db.commit()
     db.refresh(doc)
@@ -130,32 +149,34 @@ async def upload_file(file: UploadFile = File(...), db: Session = Depends(get_db
         "classification": data
     }
 
-
 # ======================================================
-# Crawl Documents
+# Crawl
 # ======================================================
 
 @app.post("/crawl")
-def run_crawl(max_files: int = 5, db: Session = Depends(get_db)):
+def crawl_documents(max_files: int = 5, db: Session = Depends(get_db)):
     files = crawl_files(max_files=max_files)
-    new_files = []
+    added = []
 
     for filename in files:
-        path = os.path.join("data/raw", filename)
-
-        # Skip if file already exists in DB
         if db.query(Document).filter(Document.filename == filename).first():
             continue
 
+        path = os.path.join(DATA_DIR, filename)
         text = extract_text(path)
         if not text:
             continue
 
         result = classify_document(text)
+
         try:
             data = json.loads(result)
-        except:
-            data = {"type": "OTHERS", "summary": "Invalid LLM output", "confidence": 0}
+        except Exception:
+            data = {
+                "type": "OTHERS",
+                "summary": "Invalid LLM output",
+                "confidence": 0.0
+            }
 
         doc = Document(
             filename=filename,
@@ -164,22 +185,20 @@ def run_crawl(max_files: int = 5, db: Session = Depends(get_db)):
             confidence=data["confidence"],
             source="crawl"
         )
+
         db.add(doc)
-        new_files.append(filename)
+        added.append(filename)
 
     db.commit()
-
-    return {"crawled": len(new_files), "files_added": new_files}
-
+    return {"crawled": len(added), "files_added": added}
 
 # ======================================================
-# Get All Documents
+# List documents
 # ======================================================
 
 @app.get("/documents", response_model=list[DocumentResponse])
 def get_documents(db: Session = Depends(get_db)):
     docs = db.query(Document).order_by(Document.created_at.desc()).all()
-
     return [
         {
             "id": d.id,
@@ -192,13 +211,12 @@ def get_documents(db: Session = Depends(get_db)):
         for d in docs
     ]
 
-
 # ======================================================
-# Get Document Detail
+# Document detail
 # ======================================================
 
 @app.get("/documents/{id}", response_model=DocumentDetailResponse)
-def get_document_detail(id: int, db: Session = Depends(get_db)):
+def get_document(id: int, db: Session = Depends(get_db)):
     doc = db.query(Document).filter(Document.id == id).first()
     if not doc:
         raise HTTPException(status_code=404, detail="Document not found")
@@ -213,47 +231,26 @@ def get_document_detail(id: int, db: Session = Depends(get_db)):
         "created_at": doc.created_at.isoformat()
     }
 
-
 # ======================================================
-# Get Document Content (Extracted text)
-# ======================================================
-
-@app.get("/documents/{id}/content", response_model=DocumentContentResponse)
-def get_document_content(id: int, db: Session = Depends(get_db)):
-    doc = db.query(Document).filter(Document.id == id).first()
-    if not doc:
-        raise HTTPException(status_code=404, detail="Document not found")
-
-    file_path = os.path.join("data/raw", doc.filename)
-    if not os.path.exists(file_path):
-        raise HTTPException(status_code=404, detail="File not found on server")
-
-    text = extract_text(file_path) or "Content not extractable"
-
-    return {"document_id": doc.id, "content": text}
-
-
-# ======================================================
-# Download file (PDF or any file)
+# Download document
 # ======================================================
 
 @app.get("/documents/{id}/download")
 def download_document(id: int, db: Session = Depends(get_db)):
-    doc = db.query(Document).filter(Document.id == id).first()
-    if not doc:
-        raise HTTPException(status_code=404, detail="Document not found")
+    doc, file_path = get_document_and_path(id, db)
 
-    file_path = os.path.join("data/raw", doc.filename)
-    if not os.path.exists(file_path):
-        raise HTTPException(status_code=404, detail="File not found on server")
+    mime_type, _ = mimetypes.guess_type(file_path)
+    mime_type = mime_type or "application/octet-stream"
+
+    encoded_filename = quote(doc.filename)
 
     return FileResponse(
-        file_path,
-        media_type="application/octet-stream",
-        filename=doc.filename,
-        headers={"Content-Disposition": f"attachment; filename={doc.filename}"}
+        path=file_path,
+        media_type=mime_type,
+        headers={
+            "Content-Disposition": f"attachment; filename*=UTF-8''{encoded_filename}"
+        }
     )
-
 
 # ======================================================
 # Categories
@@ -264,18 +261,14 @@ def get_categories(db: Session = Depends(get_db)):
     items = db.query(Category).all()
     return [{"key": c.key, "description": c.description} for c in items]
 
-
 # ======================================================
 # Stats
 # ======================================================
 
 @app.get("/stats")
 def get_stats(db: Session = Depends(get_db)):
-    docs = db.query(Document.doc_type).all()
-
     stats = {}
-    for (t,) in docs:
+    for (t,) in db.query(Document.doc_type).all():
         if t:
             stats[t] = stats.get(t, 0) + 1
-
     return {"stats": stats}
